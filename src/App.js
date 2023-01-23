@@ -16,7 +16,7 @@ useEffect(() => {
         `https://api.api-ninjas.com/v1/celebrity?name=${searchTerm}`,
         {
           headers: {
-            'X-Api-Key' : 'rlpcuJjz2en4pseA215vpw==VILHqXeYp4PBqnQE'
+            'X-Api-Key' : 'YOUR UNIQUE API KEY'
           }
         }
       );
